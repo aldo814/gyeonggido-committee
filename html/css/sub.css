@@ -12,7 +12,7 @@
 .committee_sub_bg #snb_m .home{background: url(../images/home_ico_white.png) no-repeat}
 .committee_sub_bg  #snb_m strong {color: #ffe500}
 .committee_sub_bg .sns_prt {bottom: -5px}
-.committee_sub_bg .snb_wrap {margin-top: -30px;z-index: 555;position: relative;}
+.committee_sub_bg .snb_wrap {}
 
 /*의안 서브비쥬얼*/
 .vill_sub_bg {background: url(../images/bill_sub_bg.png) no-repeat center;height: 100px;text-align: center;background-size: cover;margin-bottom: 20px}
